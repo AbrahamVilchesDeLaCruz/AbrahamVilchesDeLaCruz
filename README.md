@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **AbrahamVilchesDeLaCruz/AbrahamVilchesDeLaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Perfil principal -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius: 50%; box-shadow: 0 0 30px #3799fa;" alt="Abraham Vilches"/>
-</p>
 
 <h1 align="center" style="color:#3799fa; text-shadow: 0 0 10px #3799fa;">Abraham Vilches de la Cruz</h1>
 <p align="center" style="color:#7ecbff; font-size:1.2em;">Ingeniero de Software | Full Stack Developer</p>
