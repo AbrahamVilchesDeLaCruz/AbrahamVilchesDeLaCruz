@@ -2,7 +2,16 @@
 <p align="center"><strong>Ingeniero de Software | Full Stack Developer</strong></p>
 <p align="center">Arquitecturas escalables · DDD · Microservicios · +2 años de experiencia</p>
 
+
 ---
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nestjs,nodejs,symfony,flask,py,ts,js,tailwind,vite,postgres,mysql,mongodb,docker,aws,jenkins,git,github&perline=9" alt="stack icons" />
+</p>
+
+---
+
 
 ## 👨‍💻 Sobre mí
 
@@ -11,14 +20,6 @@ Soy un desarrollador full-stack con más de 2 años de experiencia, apasionado p
 Mi enfoque se basa en crear soluciones mantenibles, aplicando principios como **DDD**, **Clean Architecture**, **TDD** y estrategias **event-driven**. Me entusiasma automatizar procesos, mejorar la eficiencia de los equipos de desarrollo y compartir conocimiento.
 
 🎯 **Valores clave:** calidad, simplicidad, colaboración y aprendizaje continuo.
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nestjs,nodejs,symfony,flask,py,ts,js,tailwind,vite,postgres,mysql,mongodb,docker,aws,jenkins,git,github&perline=9" alt="stack icons" />
-</p>
 
 ---
 
